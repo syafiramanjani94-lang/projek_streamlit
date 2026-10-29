@@ -1,0 +1,6 @@
+venv/
+.env
+s.txt
+__pycache__/
+*рус
+.DS_Store
